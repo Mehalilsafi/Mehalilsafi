@@ -28,7 +28,7 @@
 
 
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehalilsafi&" alt="mehalilsafi" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehalilsafi&show_icons=true&locale=en&layout=compact" alt="mehalilsafi" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mehalilsafi&show_icons=true&locale=en" alt="mehalilsafi" /></p>
