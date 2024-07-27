@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehalilsafi&label=Profile%20views&color=0e75b6&style=flat" alt="mehalilsafi" /> </p>
 
-- 🔭 I’m currently working on [express-tut](https://github.com/Mehalilsafi/express-tut)
+- 🔭 I’m currently working on [express.js-tut](https://github.com/Mehalilsafi/Express.jsTuto-)
 
 - 🌱 I’m currently learning **Next.js, Supabase, React**
 
