@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [express.js-tut](https://github.com/Mehalilsafi/Express.jsTuto-)
 
-- 🌱 I’m currently learning **Next.js, Supabase, React**
+- 🌱 I’m currently learning **Next.js, Supabase, express.js**
 
 - 👯 I’m looking to collaborate on **Next.js projects**
 
