@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Next.js projects**
 
-- 💬 Ask me about **JavaScript, react, Next.js**
+- 💬 Ask me about **JavaScript, react , Next.js**
 
 - 📫 How to reach me: **safiou102003@gmail.com**
 
